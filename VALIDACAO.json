@@ -1,0 +1,12 @@
+{
+  "total": 150,
+  "categories": {
+    "Morfologia": 50,
+    "Sintaxe": 50,
+    "Semântica": 20,
+    "Estilística": 30
+  },
+  "unique_ids": true,
+  "all_have_4_options": true,
+  "all_answers_exist": true
+}
